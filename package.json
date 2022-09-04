@@ -9,5 +9,8 @@
   "keywords": [],
   "author": "",
   "homepage": "https://MohGumaa.github.io/Dewstar",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "gh-pages": "^4.0.0"
+  }
 }
