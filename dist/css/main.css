@@ -123,6 +123,30 @@ body {
   margin-bottom: 19px;
 }
 
+.custom-img {
+  width: 102px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.img-md {
+  width: 210.4px;
+}
+
+.img-lg {
+  width: 250px;
+}
+
+.custom-height {
+  height: 140.63px;
+}
+
+.custom-img img {
+  max-width: 100%;
+  object-fit: cover;
+  border-radius: 10px;
+}
+
 @media screen and (max-width: 550px) {
   .logo {
     width: 330px;
@@ -131,6 +155,10 @@ body {
   .hero-contetnt h1 {
     font-size: 36px;
     line-height: 1.6;
+  }
+
+  .custom-height {
+    height: auto;
   }
 
   .hero-contetnt p {
