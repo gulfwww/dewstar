@@ -124,21 +124,9 @@ body {
 }
 
 .custom-img {
-  width: 102px;
+  width: 185px;
   margin-left: auto;
   margin-right: auto;
-}
-
-.img-md {
-  width: 210.4px;
-}
-
-.img-lg {
-  width: 250px;
-}
-
-.custom-height {
-  height: 140.63px;
 }
 
 .custom-img img {
