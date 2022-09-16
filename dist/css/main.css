@@ -124,9 +124,10 @@ body {
 }
 
 .custom-img {
-  width: 185px;
+  width: 95px;
   margin-left: auto;
   margin-right: auto;
+  margin-bottom: 20px !important;
 }
 
 .custom-img img {
